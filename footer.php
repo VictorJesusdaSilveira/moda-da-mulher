@@ -1,4 +1,4 @@
-  <!--/Rodapé-->
+<!--/Rodapé-->
   <footer class="bg-cor-secundaria text-white">
     <div class="container py-5">
       <div class="row">
@@ -39,3 +39,8 @@
     </div>
   </footer>
   <!--/.Rodapé-->
+  
+  <script src="assets/scripts/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
